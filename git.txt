@@ -1,0 +1,21 @@
+Exercise 1
+Blob Object
+type: int
+method name: cmd_worktree 
+parameters: int ac, char av, char prefix
+
+Exercise 2:
+prints 4th to last line of tree output
+100644 blob f55d4083edd518a0dad26a37ac4d5c6877184c4f    tutorial.txt
+
+Exercise 3:
+tree d489651b324bb6f36a609c5a5341f07c567a145d
+parent b0adcc311bab2d91337ac70c2b19cde11a1ad441
+author Matthias Rüster <matthias.ruester@gmail.com> 1614523223 +0100
+committer Matthias Rüster <matthias.ruester@gmail.com> 1615229373 +0100
+
+l10n: de.po: Update German translation for Git v2.31.0
+
+Reviewed-by: Ralf Thielow <ralf.thielow@gmail.com>
+Reviewed-by: Phillip Szelat <phillip.szelat@gmail.com>
+Signed-off-by: Matthias Rüster <matthias.ruester@gmail.com>

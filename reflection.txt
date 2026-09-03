@@ -1,0 +1,3 @@
+a- I usually use Eclipse and VsCode for my development because it is what was often taught to me to use in my courses. I find them intuitive and helpful.
+b- I have very limited experience with vi, but I did interact with the terminal a lot in CS2505
+c- An advantage is that they are low level, granting the user more access to the computer and resources if that is desired. The disadvantage is that they are more basic and are generally harder to learn in my opinion.
