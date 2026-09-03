@@ -1,3 +1,3 @@
 # CS3704-Software-Engineering-Basics-Workshop
 
-Hello, World!
+Hello, Github!
